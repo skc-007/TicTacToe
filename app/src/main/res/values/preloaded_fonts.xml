@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abril_fatface</item>
+        <item>@font/aladin</item>
+        <item>@font/amarante</item>
+        <item>@font/bangers</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/bigshot_one</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/carter_one</item>
+        <item>@font/galada</item>
+        <item>@font/lemon</item>
+        <item>@font/limelight</item>
+        <item>@font/lobster</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/oleo_script_bold</item>
+        <item>@font/pattaya</item>
+        <item>@font/rammetto_one</item>
+        <item>@font/ranchers</item>
+        <item>@font/shojumaru</item>
+        <item>@font/spicy_rice</item>
+    </array>
+</resources>
